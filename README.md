@@ -26,3 +26,6 @@ Slot Booking Page
 
 Slot Booking
 ![Screenshot (8)](https://user-images.githubusercontent.com/109066110/208869814-830bf71f-e1fa-4efe-98f5-3adcdfdda124.png)
+
+Already Booked Slots
+![Screenshot (9)](https://user-images.githubusercontent.com/109066110/208870019-9bf83370-158d-47ff-90ea-b97d396b87b7.png)
