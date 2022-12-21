@@ -9,3 +9,6 @@ Login Page
 
 Home Page
 ![Screenshot (2)](https://user-images.githubusercontent.com/109066110/208868635-1523ad49-ca52-441d-b294-b04c550f74aa.png)
+
+Registeration Form
+![Screenshot (3)](https://user-images.githubusercontent.com/109066110/208868853-a4ee2eb9-8c33-4057-a041-e72c2b214e35.png)
