@@ -18,3 +18,5 @@ ADMIN SIDE
 Login Page
 ![Screenshot (5)](https://user-images.githubusercontent.com/109066110/208869057-131e475c-2d99-41b5-8857-3e48c7d47ab8.png)
 
+Home page
+![Screenshot (6)](https://user-images.githubusercontent.com/109066110/208869431-2a6bcfcd-5d82-4bb5-b46e-abd8b0d366a2.png)
