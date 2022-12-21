@@ -24,8 +24,8 @@ Home page
 Slot Booking Page
 ![Screenshot (7)](https://user-images.githubusercontent.com/109066110/208869581-cf636930-93a2-4818-9b59-d1494a8f1982.png)
 
-Slot Booking
+Slots available for Booking - Blue Color
 ![Screenshot (8)](https://user-images.githubusercontent.com/109066110/208869814-830bf71f-e1fa-4efe-98f5-3adcdfdda124.png)
 
-Already Booked Slots
+Already Booked Slots - Red Color
 ![Screenshot (9)](https://user-images.githubusercontent.com/109066110/208870019-9bf83370-158d-47ff-90ea-b97d396b87b7.png)
