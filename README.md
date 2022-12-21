@@ -20,3 +20,6 @@ Login Page
 
 Home page
 ![Screenshot (6)](https://user-images.githubusercontent.com/109066110/208869431-2a6bcfcd-5d82-4bb5-b46e-abd8b0d366a2.png)
+
+Slot Booking Page
+![Screenshot (7)](https://user-images.githubusercontent.com/109066110/208869581-cf636930-93a2-4818-9b59-d1494a8f1982.png)
